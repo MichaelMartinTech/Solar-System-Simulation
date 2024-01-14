@@ -7,7 +7,7 @@
 The following is a project for UNR's Graduate Level Computer Graphics for Fall 2023.
 
 ### Implementation – UML Class Diagram ###
-(To be added)
+![alt text](https://github.com/MichaelRNia/Solar-System-Simulation/blob/main/UML-1.png?raw=true)
 
 ## Mesh Generation and Loading
 The `Mesh` class is responsible for handling mesh generation and loading from files using the Assimp library. Key functionalities include:
@@ -127,3 +127,4 @@ The code creates a modular graphics system with a scene graph to organize and re
 ## Update Log ##
 ### 1/13/2024 ###
 `4:33 PM PST` - Github created with readme
+`4:40 PM PST` - Uploaded UML Diagram
