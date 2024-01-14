@@ -129,3 +129,5 @@ The code creates a modular graphics system with a scene graph to organize and re
 `4:33 PM PST` - Github created with readme
 
 `4:40 PM PST` - Uploaded UML Diagram
+
+`5:07 PM PST` - Video Demo Upload
