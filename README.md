@@ -6,6 +6,10 @@
 
 The following is a project for UNR's Graduate Level Computer Graphics for Fall 2023.
 
+### Video Demo ###
+
+https://github.com/MichaelRNia/Solar-System-Simulation/assets/70539262/f57855f6-14ad-45b9-8397-ffe36d9186c2
+
 ### Implementation – UML Class Diagram ###
 ![alt text](https://github.com/MichaelRNia/Solar-System-Simulation/blob/main/UML-1.png?raw=true)
 
@@ -131,3 +135,5 @@ The code creates a modular graphics system with a scene graph to organize and re
 `4:40 PM PST` - Uploaded UML Diagram
 
 `5:07 PM PST` - Video Demo Upload
+
+`5:09 PM PST` - Video Demo Embedded to ReadMe
