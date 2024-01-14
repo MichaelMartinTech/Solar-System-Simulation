@@ -127,4 +127,5 @@ The code creates a modular graphics system with a scene graph to organize and re
 ## Update Log ##
 ### 1/13/2024 ###
 `4:33 PM PST` - Github created with readme
+
 `4:40 PM PST` - Uploaded UML Diagram
