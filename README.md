@@ -1,6 +1,6 @@
 # Space Explorer 2023
 ### Author: ### 
-` Michael Nia `
+` Michael R. Martin `
 ### Date of Report: ###
 ` 12/22/2023 `
 
