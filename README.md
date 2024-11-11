@@ -129,6 +129,8 @@ Toggle between exploration and observation modes. In observation mode, orbit aro
 The code creates a modular graphics system with a scene graph to organize and render objects. The `Graphics` class initializes the system, the `SceneNode` class represents nodes with transformations and optional renderable objects, and the `SceneGraph` class manages the overall structure and rendering of the scene graph. The development environment is Microsoft Visual Studio 2022, and the code utilizes the OpenGL graphics framework.
 
 ## Update Log ##
+### 11/10/2024 ###
+`4:32 PM PST` - Updated ReadMe and Profile page
 ### 1/13/2024 ###
 `4:33 PM PST` - Github created with readme
 
