@@ -4,7 +4,8 @@
 ### Date of Report: ###
 ` 12/22/2023 `
 
-The following is a project for UNR's Graduate Level Computer Graphics for Fall 2023.
+### Program Purpose ###
+This project is a prototype of a solar system simulation which was created to demonstrate OpenGL's graphics programming capabilities. This project applies techniques such as matrix stacking, scene graph structuring, texture handling, lighting calculations, callback management, and OpenGL context creation. Overall, this simulation is designed to illustrate core concepts in computer graphics, emphasizing both efficient rendering and interactive control for exploring foundational graphics programming techniques in C++.
 
 ### Video Demo ###
 
@@ -130,6 +131,7 @@ The code creates a modular graphics system with a scene graph to organize and re
 
 ## Update Log ##
 ### 11/10/2024 ###
+`4:40 PM PST` - Included Program Purpose in ReadMe
 `4:32 PM PST` - Updated ReadMe and Profile page
 ### 1/13/2024 ###
 `4:33 PM PST` - Github created with readme
